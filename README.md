@@ -1,4 +1,4 @@
-# Polar Mesh
+# Echo Meridian
 
 Monochrome light-themed ops dashboard with Express API and static UI.
 

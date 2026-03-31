@@ -1,7 +1,7 @@
 {
   "name": "bw-app-31-1774962121",
   "version": "1.0.0",
-  "description": "Polar Mesh monochrome ops dashboard",
+  "description": "Echo Meridian monochrome ops dashboard",
   "type": "module",
   "scripts": {
     "start": "node server.js"
